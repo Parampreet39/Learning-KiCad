@@ -51,7 +51,7 @@
 		(capping no)
 		(filling no)
 		(pcbplotparams
-			(layerselection 0x00000000_00000000_55555555_5755f5ff)
+			(layerselection 0x00000000_00000000_555555d5_5755ffff)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
 			(disableapertmacros no)
 			(usegerberextensions no)
@@ -82,9 +82,9 @@
 			(subtractmaskfromsilk no)
 			(outputformat 1)
 			(mirror no)
-			(drillshape 1)
+			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "")
+			(outputdirectory "gerber/")
 		)
 	)
 	(footprint "Capacitor_SMD:CP_Elec_6.3x7.7"
@@ -2940,6 +2940,18 @@
 				(size 0.5 0.5)
 				(thickness 0.125)
 				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "5V to 3.3V"
+		(at 93.98 77.47 0)
+		(layer "User.1")
+		(uuid "d36b1ec6-c573-4149-a2da-03ccb30f6892")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
 			)
 			(justify left bottom)
 		)
