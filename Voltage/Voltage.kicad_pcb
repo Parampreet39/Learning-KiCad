@@ -543,7 +543,7 @@
 		(property "Reference" "J1"
 			(at -1.032 -3.778 90)
 			(layer "F.SilkS")
-			(uuid "7c3195bc-9768-4849-9557-3df875b84b2b")
+			(uuid "e7c7ad3d-0ac6-423e-8bb2-29cfb719fbdf")
 			(effects
 				(font
 					(size 1 1)
@@ -554,7 +554,7 @@
 		(property "Value" "USB_B_Micro"
 			(at 0 4.6 90)
 			(layer "F.Fab")
-			(uuid "d3c714c1-7c20-42fc-9fc2-b70ea56a0255")
+			(uuid "ea7454aa-a4b7-4702-8739-dc5764b5171d")
 			(effects
 				(font
 					(size 1 1)
@@ -567,7 +567,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8a7efd06-78dc-41cd-b3df-20fdbe209515")
+			(uuid "9dc65445-e8f9-4ca8-ba69-11d786f211ea")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -580,7 +580,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "64d3efc9-0c8c-46f0-ace9-f8cf93e7285b")
+			(uuid "da6d0a2c-86be-45fe-bc7e-b9fad43bf056")
 			(effects
 				(font
 					(size 1.27 1.27)
