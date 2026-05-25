@@ -18,9 +18,9 @@ My first complete PCB design focused on stable power delivery for microcontrolle
 ---
 
 ## 🛠️ The Roadmap
-1. [x] **Basics:** 5V to 3.3V Power Regulator (Success!)
-2. [ ] **Intermediate:** 12V Rechargeable Guitar Preamp (3S Li-ion Powered)
-3. [ ] **Advanced:** Custom Arduino-based Multi-Effects Pedal with integrated PCB.
+1. [x] **Basics:** Water Alarm
+   <img width="1024" height="1024" alt="image_8d41b6c9" src="https://github.com/user-attachments/assets/5060f141-2105-483d-804b-a72ebcebef37" />
+   <img width="1675" height="892" alt="image" src="https://github.com/user-attachments/assets/b96589b9-d813-4af0-8d8e-57a33746c4c7" />
 
 ---
 **Designed by:** [Parampreet39](https://github.com/Parampreet39) | **Target:** Mechanical Engineering & IoT
