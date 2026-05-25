@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Buzzers") (type "KiCad") (uri "C:/Users/Asus/OneDrive/Documents/KiCad/KiCad Tools/FootPrints Library/Buzzers.pretty") (options "") (descr ""))
+)
