@@ -3845,6 +3845,17 @@
 				)
 			)
 		)
+		(property "DKPN" "CF18Jt6k80CT-ND"
+			(at 148.59 55.88 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "bff678f4-2ba5-410c-bb47-7fc7d7d6d8a0")
 		)
