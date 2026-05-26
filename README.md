@@ -23,8 +23,9 @@ My first complete PCB design focused on stable power delivery for microcontrolle
    <img width="1675" height="892" alt="image" src="https://github.com/user-attachments/assets/b96589b9-d813-4af0-8d8e-57a33746c4c7" />
    V2 Modified it
     - **Added** : Cell Input , Diode for Reverse polarity protection , Potentiometer for Volume Change
-   <img width="1339" height="777" alt="image" src="https://github.com/user-attachments/assets/7efa2e78-750b-442d-9c1d-ee0a27604c49" />
-   <img width="1564" height="872" alt="image" src="https://github.com/user-attachments/assets/b81ec208-175b-4a54-89c1-39e335ffaf0c" />
+   <img width="1143" height="554" alt="image" src="https://github.com/user-attachments/assets/174fd17d-b721-47fc-8aa1-40c17f5268ce" />
+   <img width="1492" height="843" alt="image" src="https://github.com/user-attachments/assets/ddcc4483-db87-476e-a95d-f72f7ccd7567" />
+
 
 
 
