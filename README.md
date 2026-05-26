@@ -21,6 +21,12 @@ My first complete PCB design focused on stable power delivery for microcontrolle
 1. [x] **Basics:** Water Alarm
    <img width="1675" height="892" alt="image" src="https://github.com/user-attachments/assets/cb0b20ef-d8c7-4cf6-9f8f-544269112cef" />
    <img width="1675" height="892" alt="image" src="https://github.com/user-attachments/assets/b96589b9-d813-4af0-8d8e-57a33746c4c7" />
+   V2 Modified it
+    - **Added** : Cell Input , Diode for Reverse polarity protection , Potentiometer for Volume Change
+   <img width="1339" height="777" alt="image" src="https://github.com/user-attachments/assets/7efa2e78-750b-442d-9c1d-ee0a27604c49" />
+   <img width="1564" height="872" alt="image" src="https://github.com/user-attachments/assets/b81ec208-175b-4a54-89c1-39e335ffaf0c" />
+
+
 
 ---
 **Designed by:** [Parampreet39](https://github.com/Parampreet39) | **Target:** Mechanical Engineering & IoT
